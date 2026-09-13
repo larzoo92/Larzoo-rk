@@ -1,0 +1,6 @@
+{
+  "name": "Larzoo",
+  "description": "Unified commerce ecosystem for hyperlocal delivery, bulk business procurement, and AI-powered custom sourcing.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
